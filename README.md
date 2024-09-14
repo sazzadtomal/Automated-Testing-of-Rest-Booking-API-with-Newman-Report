@@ -232,7 +232,7 @@ newman run "Sazzad_Alam_Tomal_01521333429_RestfulBooker_APITesting.postman_colle
 
 ## Newman Report Summary:
 ![Dashboard](https://github.com/user-attachments/assets/dd5e5747-2e71-4039-905a-d89cc1b1906e)
-![Iterations](https://github.com/user-attachments/assets/8e715a79-9544-4f02-83fb-15a1d33f17b9)
+![Iterations](https://github.com/user-attachments/assets/f022718b-4b77-4b66-a62e-f4ee776b11b2)
 ![Failed](https://github.com/user-attachments/assets/fc7f86d4-36af-41ea-87c0-8ed644d56a39)
 ![Skipped](https://github.com/user-attachments/assets/7097cf47-69f9-42be-8107-89fb5cbb3bb0)
 
